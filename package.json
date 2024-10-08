@@ -1,0 +1,18 @@
+{
+  "name": "op-erc20-bridging",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "npm install",
+    "build": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kombi",
+  "license": "ISC",
+  "dependencies": {
+    "@eth-optimism/sdk": "^3.3.2",
+    "ethers": "^5"
+  },
+  "description": ""
+}
